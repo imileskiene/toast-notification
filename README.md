@@ -13,7 +13,7 @@ This project was created for learning purposes by following a tutorial by [Great
 
 ## Live Demo
 
-👉 [View Live Demo](https://imileskiene.github.io/digitalclock/)  
+👉 [View Live Demo](https://imileskiene.github.io/toast-notification/)  
 
 ---
 
@@ -27,7 +27,7 @@ This project was created for learning purposes by following a tutorial by [Great
 
 ## Screenshot
 
-![toast-notification Screenshot](dnotification.png)
+![toast-notification Screenshot](notification.png)
 
 ---
 
